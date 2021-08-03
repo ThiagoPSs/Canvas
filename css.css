@@ -1,0 +1,13 @@
+
+html{
+    background-color: seagreen;
+    background-size: 100%;
+}
+imagem{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+}
